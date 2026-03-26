@@ -1,0 +1,470 @@
+brand,sku,category,compatiblePrinter,msrp,purchasePackQty,descriptor,upc,userComments
+Bambu Lab,FAH022,Silicone Sock,H2S,2.99,3,Silicone Sock for Hotend H2 Series,,H2 Series 3pk
+Bambu Lab,FAC034,Filament Cutter,H2S,2.99,1,Replacement Filament Cutter,,X1/P1/A1Series/H2S
+Bambu Lab,SAA034,Support Shaft Assembly,AMS 2 Pro,5.99,1,AMS 2 Pro Active Support Shaft,,AMS 2 Pro
+Bambu Lab,SAA033,Support Shaft Assembly,AMS 2 Pro,7.49,1,AMS 2 Pro Driven Support Shaft,,AMS 2 Pro
+Bambu Lab,FAC147,Purge Wiper,H2S,9.99,1,Purge Wiper H2S,,H2S and H2S Laser
+Bambu Lab,FAC224,PTFE Cleaning Pad,All Series,2.99,10,PTFE Adapter Filament II Cleaning Pad,,All Series - 10pk
+Bambu Lab,FAZ037,Anti-Vibration Feet,H2S,4.99,1,Anti-Vibration Feet Set H2 Series,,H2 Series
+Bambu Lab,SAA029,Desiccant,AMS 2 Pro,3.99,6,Desiccant for AMS Unit,,All Series - 6pk
+Bambu Lab,FAZ030,Lubricant,All Series,3.99,2,Lubricant Grease,,All Series - 2pk
+Bambu Lab,FAZ031,Lubricant,All Series,5.99,6,Lubricant Oil,,All Series - 6pk
+Bambu Lab,FAC116,Air Filter,H2S,17.99,1,Air Filter H2 Series,,H2 Series
+Bambu Lab,FAH026-H2S,Nozzle,H2S,17.84,1,Standard Flow 0.2mm Stainless Steel,,
+Bambu Lab,FAH023-H2S,Nozzle,H2S,17.84,1,Standard Flow 0.4mm Hardened Steel,,
+Bambu Lab,FAH030-H2S,Nozzle,H2S,49.39,1,High Flow 0.4mm Hardened Steel,,
+Bambu Lab,FAH043-H2S,Nozzle,H2S,89.99,1,High Flow 0.4mm Tungsten Carbide,,
+Bambu Lab,FAH040-H2S,Nozzle,H2S,59.99,1,Standard Flow 0.4mm Tungsten Carbide,,
+Bambu Lab,FAP026,Build Plate,H2S,43.39,1,Smooth PEI Plate,,H2D and H2S
+Bambu Lab,FAP025,Build Plate,H2S,61.99,1,Textured PEI Plate,,H2D and H2S
+Bambu Lab,FAP038-H2S,Build Plate,H2S,59.99,1,Engineering Plate,,H2S
+Bambu Lab,FAP031-V1,Vision Encoder,H2S,84.0,1,Vision Encoder H2 Series,,H2 Series
+Bambu Lab,FAZ013-N,PTFE Adapter,All Series,4.99,1,Bambu 4-in-1 PTFE Adapter,,X1/P1/H2D/H2S/P2S
+Bambu Lab,EBT-X1C-H01,Nozzle,X1 Carbon,129.99,1,Complete Nozzle Assembly X1 Carbon,,X1C with nozzle
+Bambu Lab,EBT-P1S-H01,Nozzle,P1S,119.99,1,Complete Nozzle Assembly P1S,,P1S with nozzle
+Bambu Lab,EBT-A1M-H01,Nozzle,A1 Mini,89.99,1,Nozzle Assembly A1 Mini,,A1 Mini
+Bambu Lab,BL-0.4-BRS,Nozzle,X1 Carbon,9.99,4,0.4mm Brass Nozzle 4-pack,,X1C/P1S standard
+Bambu Lab,BL-0.6-BRS,Nozzle,X1 Carbon,9.99,4,0.6mm Brass Nozzle 4-pack,,X1C/P1S
+Bambu Lab,BL-0.4-HRD,Nozzle,X1 Carbon,19.99,1,Hardened Steel 0.4mm Nozzle,,CF/abrasive filaments
+Bambu Lab,BL-0.8-BRS,Nozzle,X1 Carbon,9.99,4,0.8mm Brass Nozzle 4-pack,,X1C/P1S
+Bambu Lab,FAP003,Build Plate,X1 Carbon,33.99,1,Textured PEI Plate X1/P1,,X1C/P1S/P1P
+Bambu Lab,FAP004,Build Plate,X1 Carbon,33.99,1,Smooth PEI Plate X1/P1,,X1C/P1S/P1P
+Bambu Lab,FAP005,Build Plate,X1 Carbon,42.99,1,High-Temp Plate X1/P1,,High temp materials
+Bambu Lab,FAP006,Build Plate,A1,27.99,1,Textured PEI Plate A1,,Bambu Lab A1
+Bambu Lab,FAP009,Build Plate,A1 Mini,24.99,1,Textured PEI Plate A1 Mini,,A1 Mini
+Bambu Lab,FAC001,Silicone Sock,X1 Carbon,2.99,3,Silicone Sock X1/P1 Series,,X1C/P1S/P1P 3pk
+Bambu Lab,FAC002,Cooling Fan,X1 Carbon,14.99,1,Hotend Cooling Fan X1/P1,,X1C/P1S replacement
+Bambu Lab,FAC003,Cooling Fan,X1 Carbon,9.99,1,Part Cooling Fan X1/P1,,X1C/P1S
+Bambu Lab,FAC010,PTFE Tube,X1 Carbon,3.99,1,PTFE Tube X1/P1 Series,,X1C/P1S/P1P
+Bambu Lab,FAC011,Filament Sensor,X1 Carbon,12.99,1,Filament Hub X1/P1,,X1C/P1S/P1P
+Bambu Lab,FAC015,Purge Wiper,X1 Carbon,7.99,1,Purge Wiper X1/P1,,X1C/P1S
+Bambu Lab,FAZ001,Lubricant,All Series,6.99,1,Linear Rail Lubricant Kit,,All Series
+Bambu Lab,FAZ005,Desiccant,All Series,9.99,4,Desiccant Packs for AMS,,AMS/AMS Lite - 4pk
+Bambu Lab,AMS-PTFE,PTFE Tube,All Series,5.99,1,AMS PTFE Tube Set,,AMS replacement set
+Bambu Lab,AMS-HUB,AMS Hub,All Series,19.99,1,AMS Hub,,AMS replacement
+Bambu Lab,AMS-FEEDER,AMS Feeder,All Series,24.99,1,AMS Feeder Unit,,AMS replacement
+Bambu Lab,FAP-COOL,Cooling Fan,A1 Mini,8.99,1,Part Cooling Fan A1 Mini,,A1 Mini replacement
+E3D,V6-0.4-175,Nozzle,Generic,14.99,1,E3D V6 0.4mm Brass 1.75mm,,V6 hotend standard
+E3D,V6-0.6-175,Nozzle,Generic,14.99,1,E3D V6 0.6mm Brass 1.75mm,,V6 hotend
+E3D,V6-0.25-175,Nozzle,Generic,14.99,1,E3D V6 0.25mm Brass 1.75mm,,V6 hotend fine
+E3D,V6-0.4-HRD,Nozzle,Generic,19.99,1,E3D V6 0.4mm Hardened Steel,,Abrasive filaments
+E3D,V6-0.4-RUBY,Nozzle,Generic,79.99,1,E3D Ruby Nozzle 0.4mm 1.75mm,,Long-life ruby tip
+E3D,REVO-0.4,Nozzle,Generic,29.99,1,E3D Revo 0.4mm Nozzle,,Tool-free swap
+E3D,REVO-0.6,Nozzle,Generic,29.99,1,E3D Revo 0.6mm Nozzle,,Tool-free swap
+E3D,REVO-0.8,Nozzle,Generic,29.99,1,E3D Revo 0.8mm Nozzle,,Tool-free swap
+E3D,REVO-0.25,Nozzle,Generic,29.99,1,E3D Revo 0.25mm Nozzle,,Tool-free swap
+E3D,REVO-HRD,Nozzle,Generic,49.99,1,E3D Revo Hardened 0.4mm,,Abrasive filaments
+E3D,V6-SOCK,Silicone Sock,Generic,7.99,3,E3D V6 Silicone Sock 3-pack,,V6 hotend 3pk
+E3D,REVO-MICRO,Nozzle Assembly,Generic,59.99,1,E3D Revo Micro Hotend,,Direct drive
+E3D,REVO-SIX,Nozzle Assembly,Generic,79.99,1,E3D Revo Six Hotend,,Bowden/Direct
+E3D,HEMI-0.4,Nozzle,Generic,39.99,1,E3D Hemisphere 0.4mm,,High flow
+E3D,TITAN-EXT,Extruder Unit,Generic,39.99,1,E3D Titan Extruder,,Bowden/direct
+E3D,HEMI-BLOCK,Heating Assembly,Generic,44.99,1,E3D Hemisphere Heat Block,,High flow
+Prusa Research,HE-MK4-ASS,Nozzle Assembly,MK4,85.99,1,MK4 Nextruder Nozzle Assembly,,Full Nextruder assembly
+Prusa Research,HE-MK4-NZ04,Nozzle,MK4,12.99,1,Nextruder Nozzle 0.4mm Brass,,MK4/MK4S
+Prusa Research,HE-MK4-NZ06,Nozzle,MK4,12.99,1,Nextruder Nozzle 0.6mm Brass,,MK4/MK4S
+Prusa Research,HE-MK4-NZ04H,Nozzle,MK4,22.99,1,Nextruder Nozzle 0.4mm Hardened,,MK4/MK4S abrasive
+Prusa Research,HE-MINI-NZ,Nozzle,MINI+,9.99,1,MINI+ E3D Nozzle 0.4mm,,MINI+ compatible
+Prusa Research,BP-PEI-MK4,Build Plate,MK4,29.99,1,Smooth PEI Spring Steel Sheet MK4,,MK4/MK4S
+Prusa Research,BP-TEX-MK4,Build Plate,MK4,29.99,1,Textured PEI Spring Steel Sheet MK4,,MK4/MK4S
+Prusa Research,BP-SATIN-MK4,Build Plate,MK4,34.99,1,Satin Spring Steel Sheet MK4,,MK4/MK4S
+Prusa Research,BP-TEX-MINI,Build Plate,MINI+,24.99,1,Textured Spring Steel Sheet MINI+,,MINI+
+Prusa Research,BP-SMO-MINI,Build Plate,MINI+,24.99,1,Smooth PEI Sheet MINI+,,MINI+
+Prusa Research,MK4-PTFE,PTFE Tube,MK4,4.99,1,PTFE Tube for MK4,,MK4 replacement
+Prusa Research,MK4-BELT,Belt,MK4,7.99,1,GT2 Belt MK4,,X/Y axis
+Prusa Research,MK4-FAN-H,Cooling Fan,MK4,12.99,1,Hotend Fan MK4,,MK4 replacement
+Prusa Research,MK4-FAN-P,Cooling Fan,MK4,9.99,1,Part Cooling Fan MK4,,MK4 replacement
+Prusa Research,XL-NZ04,Nozzle,XL,19.99,1,XL 0.4mm Nozzle,,XL high flow
+Prusa Research,XL-PLATE-T,Build Plate,XL,44.99,1,XL Textured PEI Plate,,XL
+Prusa Research,XL-PLATE-S,Build Plate,XL,44.99,1,XL Smooth PEI Plate,,XL
+Creality,CR-SPRITE-NZ,Nozzle,Generic,8.99,1,Sprite Extruder 0.4mm Nozzle,,Sprite/Sprite Pro
+Creality,CR-ENDER-NZ04,Nozzle,Ender-3 V3,7.99,5,Ender-3 MK8 0.4mm Nozzle 5-pack,,Ender-3 series 5pk
+Creality,CR-ENDER-NZ06,Nozzle,Ender-3 V3,7.99,5,Ender-3 MK8 0.6mm Nozzle 5-pack,,Ender-3 series 5pk
+Creality,CR-ENDER-NZ08,Nozzle,Ender-3 V3,7.99,5,Ender-3 MK8 0.8mm Nozzle 5-pack,,Ender-3 series 5pk
+Creality,CR-BP-GLASS,Build Plate,Ender-3 V3,14.99,1,Tempered Glass Bed Ender-3,,Ender-3 series
+Creality,CR-BP-PEI,Build Plate,Ender-3 V3,18.99,1,PEI Spring Steel Magnetic Bed,,Ender-3 series
+Creality,CR-K2-NZ,Nozzle,K2 Plus,12.99,1,K2 Plus 0.4mm Nozzle,,K2 Plus
+Creality,CR-K2-PLATE,Build Plate,K2 Plus,29.99,1,K2 Plus PEI Build Plate,,K2 Plus
+Creality,CR-SPIDER-NZ,Nozzle Assembly,Generic,24.99,1,Spider Hotend 0.4mm,,High temp
+Creality,CR-PTFE-E3,PTFE Tube,Ender-3 V3,3.99,1,PTFE Tube Ender-3,,Capricorn spec
+Creality,CR-BELT-X,Belt,Generic,5.99,1,GT2 6mm Belt 2m,,X axis replacement
+Creality,CR-BELT-Y,Belt,Generic,5.99,1,GT2 6mm Belt 2m Y Axis,,Y axis replacement
+Voron Design,VON-DRAGON-04,Nozzle Assembly,Voron 2.4 350,74.99,1,Dragon HF Hotend 0.4mm,,Voron standard
+Voron Design,VON-DRAGON-06,Nozzle Assembly,Voron 2.4 350,74.99,1,Dragon HF Hotend 0.6mm,,Voron high flow
+Voron Design,VON-DRAGON-HF,Nozzle Assembly,Voron 2.4 350,84.99,1,Dragon Superhigh Flow Hotend,,Maximum flow
+Voron Design,VON-ORBITER-2,Extruder Unit,Voron 2.4 350,39.99,1,Orbiter v2.0 Extruder,,Direct drive
+Voron Design,VON-LGX-LITE,Extruder Unit,Voron 2.4 350,44.99,1,LGX Lite Extruder,,Voron Stealthburner
+Voron Design,VON-CW2,Extruder Unit,Voron 2.4 350,35.99,1,Clockwork 2 Extruder Kit,,Stealthburner CW2
+Voron Design,VON-RAIL-MGN9,Stepper Motor,Voron 2.4 350,8.99,1,MGN9H Linear Rail 300mm,,Voron axis
+Voron Design,VON-RAIL-MGN12,Stepper Motor,Voron 2.4 350,10.99,1,MGN12H Linear Rail 300mm,,Voron gantry
+Voron Design,VON-NEMA17,Stepper Motor,Voron 2.4 350,14.99,1,NEMA17 Stepper Motor 48mm,,Voron standard
+Voron Design,VON-NEMA17-H,Stepper Motor,Voron 2.4 350,19.99,1,NEMA17 Stepper Motor High Torque,,AB motors
+Voron Design,VON-GATE-20T,Belt,Voron 2.4 350,12.99,1,20T GT2 Pulley Idler Set,,Gantry idlers
+Voron Design,VON-BELT-2GT,Belt,Voron 2.4 350,9.99,1,2GT Belt 6mm 5m,,Voron axis belts
+Voron Design,VON-SEXBOLT,Bed Assembly,Voron 2.4 350,14.99,4,Sexbolt Z Endstop Kit,,Z offset
+Voron Design,VON-HOTEND-SOCK,Silicone Sock,Voron 2.4 350,5.99,3,Dragon/Rapido Silicone Sock 3pk,,High temp sock
+Slice Engineering,SE-MOSQUITO-MAG,Nozzle Assembly,Generic,99.99,1,Mosquito Hotend Magnum+,,High flow all-metal
+Slice Engineering,SE-MOSQUITO,Nozzle Assembly,Generic,79.99,1,Mosquito Hotend,,Precision machined
+Slice Engineering,SE-COPPERHEAD,Nozzle Assembly,Generic,64.99,1,Copperhead Heat Break,,Bi-metal
+Slice Engineering,SE-NZ-04-BRS,Nozzle,Generic,9.99,1,Mosquito 0.4mm Brass Nozzle,,Mosquito compatible
+Slice Engineering,SE-NZ-06-BRS,Nozzle,Generic,9.99,1,Mosquito 0.6mm Brass Nozzle,,Mosquito compatible
+Slice Engineering,SE-NZ-04-HRD,Nozzle,Generic,19.99,1,Mosquito 0.4mm Hardened Steel,,Abrasive
+Slice Engineering,SE-NZ-RUBY,Nozzle,Generic,89.99,1,Mosquito Ruby 0.4mm,,Long-life ruby
+Slice Engineering,SE-DESICCANT,Desiccant,All Series,24.99,1,Filament Drying Desiccant 2lb,,2lb container
+Slice Engineering,SE-DESICCANT-12,Desiccant,All Series,89.99,12,Filament Drying Desiccant Canisters,,12pk canisters
+Polymaker,PO-DRYER,Filament Dryer Base,All Series,53.79,1,Filament Dryer Base,,Dryer base only
+Polymaker,PO-STORAGE,Filament Storage Box,All Series,23.09,1,Filament Storage Box,,Box only
+Polymaker,PO-MOISTURE-CARD,Desiccant,All Series,9.99,10,Moisture Indicator Cards,,10pk
+Capricorn,CAP-XS-1M,PTFE Tube,Generic,9.99,1,Capricorn XS PTFE Tube 1m,,1.75mm 2mm ID
+Capricorn,CAP-XS-2M,PTFE Tube,Generic,13.99,1,Capricorn XS PTFE Tube 2m,,1.75mm 2mm ID
+Capricorn,CAP-TL-1M,PTFE Tube,Generic,11.99,1,Capricorn TL PTFE Tube 1m,,2.85mm 3mm ID
+Bondtech,BT-BMG-LEFT,Extruder Unit,Generic,59.99,1,BMG Extruder Left,,Dual drive
+Bondtech,BT-BMG-RIGHT,Extruder Unit,Generic,59.99,1,BMG Extruder Right,,Dual drive
+Bondtech,BT-LGX,Extruder Unit,Generic,64.99,1,LGX Large Gears Extruder,,High precision
+Bondtech,BT-LGX-LITE,Extruder Unit,Generic,44.99,1,LGX Lite Extruder,,Lightweight
+Bondtech,BT-CHT-04,Nozzle,Generic,12.99,1,CHT 0.4mm Brass Nozzle,,High flow tri-channel
+Bondtech,BT-CHT-06,Nozzle,Generic,12.99,1,CHT 0.6mm Brass Nozzle,,High flow tri-channel
+Bondtech,BT-CHT-08,Nozzle,Generic,12.99,1,CHT 0.8mm Brass Nozzle,,High flow tri-channel
+Bondtech,BT-CHT-HRD,Nozzle,Generic,24.99,1,CHT 0.4mm Hardened Nozzle,,High flow abrasive
+Generic,,PTFE Tube,Generic,5.68,1,PTFE Tube 5m (2mm ID x 4mm OD),,1.75mm filament
+Generic,,PTFE Tube,Generic,6.99,1,PTFE Tube 5m (3mm ID x 5mm OD),,2.85mm filament
+Generic,,Heat Set Insert M3,Generic,8.99,100,M3 x 4.6mm Heat Set Inserts 100pk,,Most printers
+Generic,,Heat Set Insert M2,Generic,7.99,100,M2 x 3.6mm Heat Set Inserts 100pk,,Small parts
+Generic,,Heat Set Insert M4,Generic,9.99,100,M4 x 6.0mm Heat Set Inserts 100pk,,Large parts
+Generic,,Cap Screw M3x8,Generic,7.99,100,M3 x 8mm Socket Head Cap Screw 100pk,,Standard hardware
+Generic,,Cap Screw M3x12,Generic,7.99,100,M3 x 12mm Socket Head Cap Screw 100pk,,Standard hardware
+Generic,,Cap Screw M3x16,Generic,7.99,100,M3 x 16mm Socket Head Cap Screw 100pk,,Standard hardware
+Generic,,Cap Screw M3x20,Generic,7.99,100,M3 x 20mm Socket Head Cap Screw 100pk,,Standard hardware
+Generic,,Cap Screw M4x8,Generic,8.99,100,M4 x 8mm Socket Head Cap Screw 100pk,,Standard hardware
+Generic,,Cap Screw M4x12,Generic,8.99,100,M4 x 12mm Socket Head Cap Screw 100pk,,Standard hardware
+Generic,,Cap Screw M5x10,Generic,8.99,100,M5 x 10mm Socket Head Cap Screw 100pk,,Standard hardware
+Generic,,T-Nut M3,Generic,7.99,50,M3 T-Nut for 2020 Extrusion 50pk,,2020 extrusion
+Generic,,T-Nut M4,Generic,7.99,50,M4 T-Nut for 2020 Extrusion 50pk,,2020 extrusion
+Generic,,T-Nut M5,Generic,7.99,50,M5 T-Nut for 2020 Extrusion 50pk,,2020 extrusion
+Generic,,Steel Ball 5mm,Generic,5.99,50,5mm Steel Balls 50pk,,Voron bed/toolhead
+Generic,,Steel Ball 7.5mm,Generic,6.99,50,7.5mm Steel Balls 50pk,,Voron Z idlers
+Generic,,Bearing 608ZZ,Generic,8.99,10,608ZZ Bearings 10pk,,8mm ID standard
+Generic,,Bearing 625ZZ,Generic,8.99,10,625ZZ Bearings 10pk,,5mm ID idler
+Generic,,Bearing 688ZZ,Generic,9.99,10,688ZZ Bearings 10pk,,8mm OD small
+Generic,,Bearing F695,Generic,9.99,10,F695 Flanged Bearings 10pk,,5mm ID flanged
+Generic,,GT2 Pulley 20T,Generic,7.99,2,GT2 20T Pulley 5mm Bore,,Drive pulley
+Generic,,GT2 Pulley 16T,Generic,6.99,2,GT2 16T Pulley 5mm Bore,,Drive pulley
+Generic,,GT2 Idler Smooth,Generic,5.99,2,GT2 Smooth Idler Pulley 5mm,,Tension idler
+Generic,,GT2 Belt 2m,Generic,8.99,1,GT2 Belt 6mm 2m,,Axis replacement
+Generic,,GT2 Belt 5m,Generic,14.99,1,GT2 Belt 6mm 5m,,Voron/CoreXY
+Generic,,PEI Sheet 235x235,Generic,16.99,1,PEI Spring Steel Magnetic Sheet 235x235,,Ender-3 size
+Generic,,PEI Sheet 300x300,Generic,22.99,1,PEI Spring Steel Magnetic Sheet 300x300,,300mm beds
+Generic,,PEI Sheet 310x310,Generic,23.99,1,PEI Spring Steel Magnetic Sheet 310x310,,CR-10 size
+Generic,,Thermistor NTC 100K,Generic,6.99,5,NTC 100K Thermistor with Connector 5pk,,Hotend/bed
+Generic,,Heater Cartridge 24V 40W,Generic,8.99,5,24V 40W Heater Cartridge 5pk,,Most hotends
+Generic,,Heater Cartridge 12V 40W,Generic,8.99,5,12V 40W Heater Cartridge 5pk,,12V systems
+Generic,,Limit Switch,Generic,6.99,5,Mechanical Endstop Limit Switch 5pk,,XYZ endstops
+Generic,,NEMA17 Stepper 40mm,Generic,14.99,1,NEMA17 Stepper Motor 40mm,,Standard axis
+Generic,,NEMA17 Stepper 48mm,Generic,16.99,1,NEMA17 Stepper Motor 48mm,,High torque
+Generic,,Stepper Driver TMC2209,Generic,9.99,1,TMC2209 Stepper Driver,,Silent stepper
+Generic,,Raspberry Pi 4B 4GB,Generic,74.99,1,Raspberry Pi 4B 4GB,,Klipper host
+Generic,,Raspberry Pi Zero 2W,Generic,19.99,1,Raspberry Pi Zero 2W,,Klipper compact host
+Generic,,Power Supply 24V 30A,Generic,24.99,1,24V 30A Switching PSU,,24V printer standard
+Generic,,AMS Cable 6-Pin,AMS,15.81,1,AMS 6-Pin Cable Replacement,,AMS cable
+Generic,,Bowden Coupler PC4-M10,Generic,5.99,5,PC4-M10 Push-fit Coupler 5pk,,Bowden connection
+Generic,,Bowden Coupler PC4-M6,Generic,5.99,5,PC4-M6 Push-fit Coupler 5pk,,Bowden short
+Other,,Filament Storage Bags,All Series,22.14,12,Filament Vacuum Storage Bags 12pk,,Creality 12pcs
+Other,,Filament Storage Bags w/ Pump,All Series,22.14,2,Vacuum Storage Bags with Electric Pump,,2pcs with pump
+Other,,Filament Dryer Box,All Series,29.99,1,Filament Dryer Box with Humidity Display,,Active drying
+Other,,Filament Roller Stand,All Series,19.99,1,Filament Spool Roller Stand,,Universal spool holder
+Other,,Filament Scale,All Series,12.99,1,Digital Filament Scale,,Spool weight tracking
+Polymaker,PO-STORAGE,Filament Storage Box,All Series,23.09,1,Filament Storage Box,,Box only
+Polymaker,PO-DRYER,Filament Dryer Base,All Series,53.79,1,Filament Dryer Base,,Dryer base
+Bambu Lab,RSP001,Reusable Spool,All Series,7.99,1,Reusable Spool Low Temp (70C),,RSP001 4pk
+Bambu Lab,RSP002,Reusable Spool,All Series,7.99,1,Reusable Spool High Temp (90C),,RSP002 High Temp 4pk
+E3D,V6-0.25-175,Nozzle,Generic,5.99,1,E3D V6 0.25mm Brass 1.75mm,,V6 compatible
+E3D,V6-0.4-175,Nozzle,Generic,5.99,1,E3D V6 0.4mm Brass 1.75mm,,V6 compatible
+E3D,V6-0.6-175,Nozzle,Generic,5.99,1,E3D V6 0.6mm Brass 1.75mm,,V6 compatible
+E3D,V6-0.8-175,Nozzle,Generic,5.99,1,E3D V6 0.8mm Brass 1.75mm,,V6 compatible
+E3D,V6-0.4-175-HardSteel,Nozzle,Generic,19.99,1,E3D V6 0.4mm Hardened Steel 1.75mm,,Abrasive filaments
+E3D,V6-0.4-175-SS,Nozzle,Generic,15.99,1,E3D V6 0.4mm Stainless Steel 1.75mm,,Food-safe
+E3D,REVO-0.25,Nozzle,Generic,15.99,1,E3D Revo 0.25mm Brass Nozzle,,Revo ecosystem
+E3D,REVO-0.4,Nozzle,Generic,15.99,1,E3D Revo 0.4mm Brass Nozzle,,Revo ecosystem
+E3D,REVO-0.6,Nozzle,Generic,15.99,1,E3D Revo 0.6mm Brass Nozzle,,Revo ecosystem
+E3D,REVO-0.8,Nozzle,Generic,15.99,1,E3D Revo 0.8mm Brass Nozzle,,Revo ecosystem
+E3D,REVO-0.4-HS,Nozzle,Generic,24.99,1,E3D Revo 0.4mm Hardened Steel Nozzle,,Abrasive filaments
+E3D,REVO-0.6-HS,Nozzle,Generic,24.99,1,E3D Revo 0.6mm Hardened Steel Nozzle,,Abrasive filaments
+E3D,REVO-0.4-OBX,Nozzle,Generic,34.99,1,E3D Revo ObXidian 0.4mm Nozzle,,Tungsten coating
+E3D,REVO-0.6-OBX,Nozzle,Generic,34.99,1,E3D Revo ObXidian 0.6mm Nozzle,,Tungsten coating
+E3D,HEMERA-NOZZLE-0.4,Nozzle,Generic,15.99,1,E3D Hemera 0.4mm Brass Nozzle,,Hemera/Revo Hemera
+E3D,SUPER-0.4,Nozzle,Generic,19.99,1,E3D SuperVolcano 0.4mm Brass Nozzle,,High-flow
+E3D,VOLCANO-0.4,Nozzle,Generic,9.99,1,E3D Volcano 0.4mm Brass Nozzle,,High-flow
+E3D,VOLCANO-0.6,Nozzle,Generic,9.99,1,E3D Volcano 0.6mm Brass Nozzle,,High-flow
+E3D,VOLCANO-0.8,Nozzle,Generic,9.99,1,E3D Volcano 0.8mm Brass Nozzle,,High-flow
+E3D,VOLCANO-1.2,Nozzle,Generic,9.99,1,E3D Volcano 1.2mm Brass Nozzle,,High-flow
+Slice Engineering,SE-0.4-Hardened,Nozzle,Generic,29.99,1,Slice Engineering Hardened Steel 0.4mm,,Extremely wear resistant
+Slice Engineering,SE-0.4-Brass,Nozzle,Generic,14.99,1,Slice Engineering Brass 0.4mm,,Standard brass
+Slice Engineering,SE-0.6-Hardened,Nozzle,Generic,29.99,1,Slice Engineering Hardened Steel 0.6mm,,
+Slice Engineering,SE-0.25-Brass,Nozzle,Generic,14.99,1,Slice Engineering Brass 0.25mm,,
+Slice Engineering,SE-0.4-Vanadium,Nozzle,Generic,39.99,1,Slice Engineering Vanadium 0.4mm,,Ultra high wear resistance
+Slice Engineering,SE-0.6-Vanadium,Nozzle,Generic,39.99,1,Slice Engineering Vanadium 0.6mm,,Ultra high wear resistance
+Slice Engineering,SE-0.4-Tungsten,Nozzle,Generic,49.99,1,Slice Engineering Tungsten 0.4mm,,Abrasive exotic filaments
+Micro Swiss,MW-0.4-MK8,Nozzle,Ender/CR-10 Series,9.99,1,Micro Swiss 0.4mm Brass MK8,,Ender-3 / CR-10
+Micro Swiss,MW-0.4-MK8-HS,Nozzle,Ender/CR-10 Series,14.99,1,Micro Swiss 0.4mm Hardened Steel MK8,,Ender-3 / CR-10 abrasives
+Micro Swiss,MW-0.4-V6,Nozzle,Generic,9.99,1,Micro Swiss 0.4mm Brass V6,,E3D V6 compatible
+Micro Swiss,MW-0.4-V6-HS,Nozzle,Generic,14.99,1,Micro Swiss 0.4mm Hardened Steel V6,,V6 abrasives
+Micro Swiss,MW-0.4-BMG,Nozzle,Generic,14.99,1,Micro Swiss 0.4mm All-Metal Hotend BMG,,
+Micro Swiss,MW-0.4-REVO,Nozzle,Generic,18.99,1,Micro Swiss 0.4mm Revo Compatible,,
+Micro Swiss,MW-NG-0.4,Nozzle,Generic,49.99,1,Micro Swiss NG Direct Drive 0.4mm,,
+Phaetus,RAPIDO-0.4,Nozzle,Generic,14.99,1,Phaetus Rapido 0.4mm Brass,,Rapido hotend
+Phaetus,RAPIDO-0.6,Nozzle,Generic,14.99,1,Phaetus Rapido 0.6mm Brass,,Rapido hotend
+Phaetus,RAPIDO-0.4-HS,Nozzle,Generic,24.99,1,Phaetus Rapido 0.4mm Hardened Steel,,Abrasives
+Phaetus,DRAGON-0.4,Nozzle,Generic,14.99,1,Phaetus Dragon 0.4mm Brass,,Dragon hotend
+Phaetus,DRAGON-0.6,Nozzle,Generic,14.99,1,Phaetus Dragon 0.6mm Brass,,Dragon hotend
+CHT,CHT-0.4,Nozzle,Generic,12.99,1,CHT 0.4mm High-Flow Brass Nozzle,,3x flow rate
+CHT,CHT-0.6,Nozzle,Generic,12.99,1,CHT 0.6mm High-Flow Brass Nozzle,,3x flow rate
+CHT,CHT-0.4-HS,Nozzle,Generic,19.99,1,CHT 0.4mm High-Flow Hardened Steel,,Abrasive + high flow
+CHT,CHT-0.6-HS,Nozzle,Generic,19.99,1,CHT 0.6mm High-Flow Hardened Steel,,
+Generic,MK8-0.2,Nozzle,Ender/CR-10 Series,0.99,1,MK8 0.2mm Brass Nozzle,,Ender-3 compatible
+Generic,MK8-0.3,Nozzle,Ender/CR-10 Series,0.99,1,MK8 0.3mm Brass Nozzle,,Ender-3 compatible
+Generic,MK8-0.4,Nozzle,Ender/CR-10 Series,0.99,1,MK8 0.4mm Brass Nozzle,,Ender-3 compatible
+Generic,MK8-0.5,Nozzle,Ender/CR-10 Series,0.99,1,MK8 0.5mm Brass Nozzle,,Ender-3 compatible
+Generic,MK8-0.6,Nozzle,Ender/CR-10 Series,0.99,1,MK8 0.6mm Brass Nozzle,,Ender-3 compatible
+Generic,MK8-0.8,Nozzle,Ender/CR-10 Series,0.99,1,MK8 0.8mm Brass Nozzle,,Ender-3 compatible
+Generic,MK8-0.4-HS,Nozzle,Ender/CR-10 Series,3.99,1,MK8 0.4mm Hardened Steel Nozzle,,Abrasive filaments
+E3D,REVO-VORON,Nozzle Assembly,Voron 2.4 / Trident,74.99,1,E3D Revo Voron Hotend,,Drop-in for Voron
+E3D,REVO-PRUSA,Nozzle Assembly,Prusa MK3S/MK4,74.99,1,E3D Revo Prusa Hotend,,MK3S/MK4 compatible
+E3D,REVO-CR,Nozzle Assembly,Ender/CR-10 Series,64.99,1,E3D Revo CR Hotend,,Creality compatible
+E3D,REVO-MICRO,Nozzle Assembly,Generic,59.99,1,E3D Revo Micro Hotend,,Compact form factor
+E3D,REVO-SIX,Nozzle Assembly,Generic,74.99,1,E3D Revo Six Hotend,,6-way nozzle change
+E3D,REVO-HEMERA,Nozzle Assembly,Generic,119.99,1,E3D Revo Hemera Direct Drive,,
+Phaetus,RAPIDO-V2,Nozzle Assembly,Generic,59.99,1,Phaetus Rapido V2 Hotend,,High-flow hotend
+Phaetus,DRAGON-BMO,Nozzle Assembly,Generic,49.99,1,Phaetus Dragon BMO Hotend,,
+Phaetus,DRAGON-HF,Nozzle Assembly,Generic,64.99,1,Phaetus Dragon High-Flow Hotend,,
+Bambu Lab,EBB SB0000,Nozzle Assembly,X1C/P1S,49.99,1,Bambu Lab Complete Hotend X1/P1,,X1 Carbon / P1S
+Bambu Lab,EBB SB0001,Nozzle Assembly,A1 Mini,39.99,1,Bambu Lab Complete Hotend A1 Mini,,A1 Mini
+Prusa Research,E3D-NEXTRUDER,Nozzle Assembly,Prusa MK4,49.99,1,Prusa Nextruder Hotend Assembly,,MK4 / XL
+Micro Swiss,MW-DDMK8,Nozzle Assembly,Ender/CR-10 Series,59.99,1,Micro Swiss All-Metal Hotend MK8,,Ender-3 / CR-10
+Creality,BLK-SPIDER,Nozzle Assembly,Ender/CR-10 Series,29.99,1,Creality Spider Hotend,,
+Creality,HOTEND-K1,Nozzle Assembly,Creality K1 Series,34.99,1,Creality K1 Hotend Assembly,,K1 / K1 Max
+Generic,MK8-HOTEND,Nozzle Assembly,Ender/CR-10 Series,14.99,1,MK8 Hotend Assembly 24V,,Ender-3 replacement
+Generic,V6-HOTEND,Nozzle Assembly,Generic,19.99,1,E3D V6 Clone Hotend Assembly,,V6 form factor
+Bambu Lab,FAP001,Build Plate,X1C/P1S,24.99,1,Bambu High Temp Plate X1/P1,,PC/ABS printing
+Bambu Lab,FAP002,Build Plate,X1C/P1S,24.99,1,Bambu Cool Plate X1/P1,,PLA/Silk printing
+Bambu Lab,FAP003,Build Plate,X1C/P1S,24.99,1,Bambu Dual-Sided Texture PEI X1/P1,,Recommended all-purpose
+Bambu Lab,FAP004,Build Plate,A1 Mini,24.99,1,Bambu Dual-Sided PEI A1 Mini,,A1 Mini
+Bambu Lab,FAP005,Build Plate,X1C/P1S,34.99,1,Bambu Engineering Plate X1/P1,,PA/PC printing
+Bambu Lab,FAP006,Build Plate,H2D,49.99,1,Bambu Dual-Sided PEI H2D Large,,H2D 320mm plate
+Prusa Research,PEI-MK3S,Build Plate,Prusa MK3S/MK4,29.99,1,Prusa Smooth PEI Spring Sheet MK3S,,
+Prusa Research,PEI-MK3S-SATIN,Build Plate,Prusa MK3S/MK4,34.99,1,Prusa Satin PEI Spring Sheet MK3S,,Better PETG adhesion
+Prusa Research,PEI-MK3S-POWDER,Build Plate,Prusa MK3S/MK4,34.99,1,Prusa Powder-Coated Spring Sheet MK3S,,ASA/ABS adhesion
+Prusa Research,PEI-MK4,Build Plate,Prusa MK4,29.99,1,Prusa Smooth PEI Sheet MK4,,
+Prusa Research,PEI-MINI,Build Plate,Prusa MINI+,24.99,1,Prusa PEI Spring Sheet MINI+,,
+Prusa Research,PEI-XL,Build Plate,Prusa XL,49.99,1,Prusa Smooth PEI Sheet XL,,Per segment
+Creality,PEI-ENDER3,Build Plate,Ender-3 Series,15.99,1,Creality PEI Flexible Build Plate 235x235,,
+Creality,PEI-CR10,Build Plate,CR-10 Series,19.99,1,Creality PEI Flexible Build Plate 300x300,,
+Creality,GLASS-ENDER3,Build Plate,Ender-3 Series,12.99,1,Creality Carborundum Glass Bed 235x235,,
+Creality,PEI-K1,Build Plate,Creality K1 Series,19.99,1,Creality PEI Plate K1 220x220,,K1/K1C
+Creality,PEI-K1MAX,Build Plate,Creality K1 Max,24.99,1,Creality PEI Plate K1 Max 300x300,,K1 Max
+Thekkiinngg,ULTEM-235,Build Plate,Generic,39.99,1,Ultem PEI Build Surface 235x235,,High-temp printing
+Wham Bam,FLEXI-235,Build Plate,Ender-3 Series,34.99,1,Wham Bam FlexPlate System 235x235,,Magnetic flex system
+Wham Bam,FLEXI-300,Build Plate,CR-10 Series,39.99,1,Wham Bam FlexPlate System 300x300,,
+Wham Bam,FLEXI-250,Build Plate,Prusa MK3S/MK4,34.99,1,Wham Bam FlexPlate System 254x241,,
+Generic,BOROSILICATE-235,Build Plate,Ender-3 Series,14.99,1,Borosilicate Glass Bed 235x235mm,,
+Generic,BOROSILICATE-300,Build Plate,CR-10 Series,19.99,1,Borosilicate Glass Bed 300x300mm,,
+Generic,PEI-310,Build Plate,Prusa MK3S/MK4,16.99,1,PEI Spring Steel Sheet 310x315mm,,MK3 compatible
+Generic,PEI-VORON-250,Build Plate,Voron 2.4 250,24.99,1,PEI Flex Plate Voron 250x250mm,,
+Generic,PEI-VORON-300,Build Plate,Voron 2.4 300,27.99,1,PEI Flex Plate Voron 300x300mm,,
+Generic,PEI-VORON-350,Build Plate,Voron 2.4 350,32.99,1,PEI Flex Plate Voron 350x350mm,,
+Generic,MIRROR-GLASS-235,Build Plate,Ender-3 Series,12.99,1,Mirror Glass Build Surface 235x235mm,,PLA/PETG
+Energetic,PEI-235-DUAL,Build Plate,Ender-3 Series,17.99,1,Energetic Dual-Texture PEI 235x235,,Smooth + texture
+Energetic,PEI-300-DUAL,Build Plate,CR-10 Series,22.99,1,Energetic Dual-Texture PEI 300x300,,
+Bondtech,BMG,Extruder Unit,Generic,59.99,1,Bondtech BMG Extruder,,Dual-drive; universal
+Bondtech,BMG-M,Extruder Unit,Generic,59.99,1,Bondtech BMG-M Extruder,,Mirrored version
+Bondtech,LGX,Extruder Unit,Generic,59.99,1,Bondtech LGX Large Gears,,Large gear extruder
+Bondtech,LGX-Lite,Extruder Unit,Generic,44.99,1,Bondtech LGX Lite,,Compact lightweight
+Bondtech,HEXTRUDORT,Extruder Unit,Generic,39.99,1,Bondtech HextrudORT,,
+Bondtech,RIDGA-V2,Extruder Unit,Prusa MK3S/MK4,34.99,1,Bondtech RIDGA V2 for Prusa,,
+Orbiter,ORBITER-2,Extruder Unit,Generic,49.99,1,Orbiter Extruder V2.0,,Ultra-lightweight direct drive
+Orbiter,ORBITER-1.5,Extruder Unit,Generic,44.99,1,Orbiter Extruder V1.5,,
+Trianglelab,TBG,Extruder Unit,Generic,34.99,1,Trianglelab TBG BMG Clone,,BMG compatible
+Trianglelab,DRAGON-BMO-EXT,Extruder Unit,Generic,44.99,1,Trianglelab Dragon Extruder,,
+Phaetus,APUS,Extruder Unit,Generic,49.99,1,Phaetus Apus Extruder,,
+Creality,SPRITE-PRO,Extruder Unit,Ender/K1 Series,29.99,1,Creality Sprite Extruder Pro,,Direct drive
+Creality,SPRITE-DUAL,Extruder Unit,Ender/K1 Series,34.99,1,Creality Sprite Dual Extruder,,
+Vz Bot,VZEXTRUDER,Extruder Unit,Generic,39.99,1,VzBoT Extruder,,High-speed printing
+Generic,MK8-EXTRUDER,Extruder Unit,Ender/CR-10 Series,12.99,1,MK8 Extruder Arm Kit,,Ender-3 stock replacement
+Capricorn,XS-1M,PTFE Tube,Generic,9.99,1,Capricorn XS Series 1M PTFE 1.75mm,,Tight tolerance 1.75mm
+Capricorn,XS-2M,PTFE Tube,Generic,14.99,1,Capricorn XS Series 2M PTFE 1.75mm,,
+Capricorn,TL-1M,PTFE Tube,Generic,12.99,1,Capricorn TL Series 1M PTFE High-Temp,,Higher temp rating
+Capricorn,BOWDEN-KIT,PTFE Tube,Ender/CR-10 Series,11.99,1,Capricorn Bowden Tube Kit Ender,,With couplers
+Generic,PTFE-1M,PTFE Tube,Generic,4.99,1,PTFE Tube 1M 2mm ID 4mm OD,,1.75mm filament
+Generic,PTFE-2M,PTFE Tube,Generic,7.99,1,PTFE Tube 2M 2mm ID 4mm OD,,
+Generic,PTFE-3MM,PTFE Tube,Generic,5.99,1,PTFE Tube 1M 3mm ID 4mm OD,,2.85mm filament
+Generic,PTFE-HIGHTEMP,PTFE Tube,Generic,9.99,1,High-Temp PTFE Tube 1M,,For printing above 240°C
+Generic,PTFE-KIT-BAMBU,PTFE Tube,Bambu Lab,8.99,3,PTFE Tube Kit for Bambu Lab AMS,,AMS feeder tubes
+E3D,PTFE-175,PTFE Tube,Generic,6.99,1,E3D PTFE Tube 1M 1.75mm,,
+E3D,BOWDEN-175,PTFE Tube,Generic,7.99,1,E3D PTFE Bowden Tube 1.75mm,,
+eSUN,eBOX-Lite,Filament Dryer Box,-,24.99,1,eSUN eBOX Lite Filament Dryer,,
+eSUN,eBOX-Pro,Filament Dryer Box,-,39.99,1,eSUN eBOX Pro Filament Dryer,,LCD display
+Sunlu,S1-PLUS,Filament Dryer Box,-,29.99,1,Sunlu FilaDryer S1 Plus,,
+Sunlu,S2,Filament Dryer Box,-,34.99,1,Sunlu FilaDryer S2,,Dual spool
+Sunlu,S4,Filament Dryer Box,-,59.99,1,Sunlu FilaDryer S4,,4 spool capacity
+Polymaker,PolyDryer,Filament Dryer Box,-,44.99,1,Polymaker PolyDryer Box,,With hygrometer
+Creality,FILAMENT-DRYER,Filament Dryer Box,-,34.99,1,Creality Filament Dryer Space,,
+PrintDry,PRO-2,Filament Dryer Box,-,79.99,1,PrintDry PRO II Filament Dryer,,2 spool
+PrintDry,PRO-5,Filament Dryer Box,-,129.99,1,PrintDry PRO 5 Filament Dryer,,5 spool
+Generic,FOOD-DEHYDRATOR,Filament Dryer Box,-,39.99,1,Food Dehydrator Filament Dryer Hack,,DIY option
+Polymaker,PolyBox-V2,Filament Storage Box,-,34.99,1,Polymaker PolyBox V2 Filament Storage,,With hygrometer + rollers
+eSUN,eDryer,Filament Storage Box,-,19.99,1,eSUN Filament Storage Bag,,Vacuum-seal bag
+Sunlu,STORAGE-BOX,Filament Storage Box,-,19.99,1,Sunlu Filament Storage Box,,With desiccant slots
+Generic,PELICAN-1510,Filament Storage Box,-,69.99,1,Airtight Case Filament Storage,,Waterproof case
+Generic,DRYBOX-DIY,Filament Storage Box,-,24.99,1,DIY Drybox Filament Container,,Food storage container
+Bambu Lab,AMS-DRYER,Filament Storage Box,Bambu Lab,24.99,1,Bambu AMS Filament Humidity Buffer,,AMS compatible
+Creality,SPOOL-HOLDER,Filament Roller Stand,-,14.99,1,Creality Universal Spool Holder,,Universal fit
+Generic,SPOOL-HOLDER,Filament Roller Stand,-,9.99,1,Universal Spool Holder Roller Stand,,Ball bearing rollers
+Generic,SPOOL-WALL,Filament Roller Stand,-,19.99,1,Wall-Mount Spool Holder System,,
+Generic,DESICCANT-50G,Desiccant,-,0.99,10,Silica Gel Desiccant Packets 50g,,Orange indicating
+Generic,DESICCANT-100G,Desiccant,-,1.49,10,Silica Gel Desiccant Packets 100g,,
+Generic,DESICCANT-RECHARGEABLE,Desiccant,-,12.99,1,Rechargeable Desiccant Container,,Reusable; oven rechargeable
+Generic,HYGROMETER,Filament Storage Box,-,7.99,1,Mini Hygrometer Thermometer,,For drybox monitoring
+Gates,GT2-6MM-1M,Belt,Generic,7.99,1,Gates GT2 6mm Open Belt 1M,,OEM quality
+Gates,GT2-6MM-2M,Belt,Generic,12.99,1,Gates GT2 6mm Open Belt 2M,,
+Gates,GT2-6MM-5M,Belt,Generic,24.99,1,Gates GT2 6mm Open Belt 5M,,
+Gates,GT2-9MM-1M,Belt,Generic,9.99,1,Gates GT2 9mm Open Belt 1M,,Wider belt; stiffer
+Generic,GT2-LOOP-188,Belt,Ender-3 Series,3.99,2,GT2 Timing Belt Loop 188mm,,Ender-3 Z-axis
+Generic,GT2-PULLEY-20T,GT2 Pulley 20T,Generic,2.99,2,GT2 20T Pulley 5mm Bore,,
+Generic,GT2-PULLEY-16T,GT2 Pulley 16T,Generic,2.99,2,GT2 16T Pulley 5mm Bore,,
+Generic,GT2-IDLER-20T,GT2 Idler Smooth,Generic,2.99,2,GT2 20T Smooth Idler Pulley,,
+Generic,GT2-IDLER-16T,GT2 Idler Smooth,Generic,2.99,2,GT2 16T Smooth Idler Pulley,,
+Generic,MGN12-200,Linear Rail,Generic,14.99,1,MGN12 Linear Rail 200mm with Carriage,,
+Generic,MGN12-300,Linear Rail,Generic,17.99,1,MGN12 Linear Rail 300mm with Carriage,,
+Generic,MGN12-400,Linear Rail,Generic,21.99,1,MGN12 Linear Rail 400mm with Carriage,,
+Generic,MGN12-500,Linear Rail,Generic,25.99,1,MGN12 Linear Rail 500mm with Carriage,,
+Generic,MGN9-200,Linear Rail,Generic,12.99,1,MGN9 Linear Rail 200mm with Carriage,,
+Generic,MGN9-300,Linear Rail,Generic,15.99,1,MGN9 Linear Rail 300mm with Carriage,,
+Misumi,RSSM4-200,Linear Rail,Generic,24.99,1,Misumi MGN12 200mm Rail,,High precision
+Generic,LMU8-BEARING,Bearing 608ZZ,Generic,1.99,4,LM8UU Linear Bearing 8mm,,
+Generic,608ZZ-10PK,Bearing 608ZZ,Generic,5.99,10,608ZZ Bearing 10-Pack,,Standard skateboard bearing
+Generic,625ZZ-10PK,Bearing 625ZZ,Generic,6.99,10,625ZZ Bearing 10-Pack,,
+Generic,F695-10PK,Bearing F695,Generic,7.99,10,F695 Flanged Bearing 10-Pack,,Voron idlers
+Generic,688ZZ-10PK,Bearing 688ZZ,Generic,7.99,10,688ZZ Bearing 10-Pack,,
+LDO,LDO-42-40,Stepper Motor,Generic,24.99,1,LDO 42STH40-1684A NEMA17 40mm,,High quality; Voron spec
+LDO,LDO-42-48,Stepper Motor,Generic,27.99,1,LDO 42STH48-2504A NEMA17 48mm,,
+LDO,LDO-PANCAKE,Stepper Motor,Generic,22.99,1,LDO NEMA17 Pancake Stepper 20mm,,Extruder motor; lightweight
+LDO,LDO-NEMA14,Stepper Motor,Generic,24.99,1,LDO NEMA14 Round Stepper Motor,,Orbiter / compact extruders
+Generic,NEMA17-40MM,NEMA17 Stepper 40mm,Generic,12.99,1,NEMA17 Stepper Motor 40mm,,Standard replacement
+Generic,NEMA17-48MM,NEMA17 Stepper 48mm,Generic,14.99,1,NEMA17 Stepper Motor 48mm,,
+Generic,NEMA17-PANCAKE,Stepper Motor,Generic,12.99,1,NEMA17 Pancake Stepper 20mm,,Direct drive extruder
+Generic,NEMA14-ROUND,Stepper Motor,Generic,13.99,1,NEMA14 Round Stepper Motor,,
+BigTreeTech,SKR-MINI-E3-V3,Control Board,Ender-3 Series,34.99,1,BTT SKR Mini E3 V3 Control Board,,Ender-3 drop-in
+BigTreeTech,SKR-V3-EZ,Control Board,Generic,59.99,1,BTT SKR V3 EZ Control Board,,32-bit; EZ driver slots
+BigTreeTech,OCTOPUS-PRO,Control Board,Generic,89.99,1,BTT Octopus Pro V1 Control Board,,8-driver board; Voron
+BigTreeTech,MANTA-M8P,Control Board,Generic,79.99,1,BTT Manta M8P Control Board,,CB1/CM4 carrier
+BigTreeTech,EBB-36,Toolhead Board,Generic,39.99,1,BTT EBB36 CAN Toolhead Board,,CAN bus toolhead
+BigTreeTech,EBB-42,Toolhead Board,Generic,39.99,1,BTT EBB42 CAN Toolhead Board,,CAN bus toolhead
+BigTreeTech,U2C,Control Board,Generic,19.99,1,BTT U2C USB-CAN Adapter,,CAN bus interface
+BigTreeTech,TMC2209-V1.3,Stepper Driver TMC2209,Generic,5.99,1,BTT TMC2209 Stepper Driver,,UART; sensorless homing
+BigTreeTech,TMC5160-PRO,Stepper Driver TMC2209,Generic,12.99,1,BTT TMC5160 Pro Stepper Driver,,High-current; external FETs
+BigTreeTech,RELAY-V1.2,Control Board,Generic,9.99,1,BTT Relay V1.2 Power Module,,Auto power-off
+BigTreeTech,SMART-FILAMENT,Filament Sensor,Generic,14.99,1,BTT Smart Filament Sensor V2,,Runout + jam detection
+BigTreeTech,CB1,Control Board,Generic,19.99,1,BTT CB1 SBC Module,,Manta M8P carrier
+Creality,4.2.2-BOARD,Control Board,Ender-3 Series,29.99,1,Creality V4.2.2 Silent Board,,Silent TMC2208
+Creality,4.2.7-BOARD,Control Board,Ender-3 Series,34.99,1,Creality V4.2.7 Silent Board,,32-bit; silent
+Generic,RASPBERRY-PI-4B,Raspberry Pi 4B 4GB,Generic,55.0,1,Raspberry Pi 4B 4GB,,Klipper host
+Generic,RASPBERRY-PI-3B,Raspberry Pi 4B 4GB,Generic,35.0,1,Raspberry Pi 3B+,,Klipper host budget
+Generic,RASPBERRY-PI-ZERO2,Raspberry Pi Zero 2W,Generic,15.0,1,Raspberry Pi Zero 2W,,Klipper lightweight host
+Generic,RASPBERRY-PI-CM4,Raspberry Pi 4B 4GB,Generic,75.0,1,Raspberry Pi CM4 4GB,,BTT Manta carrier
+Generic,BIGTREETECH-PI,Raspberry Pi 4B 4GB,Generic,39.99,1,BTT Pi V1.2 SBC,,Klipper-ready SBC
+Generic,ORANGE-PI-3-LTS,Raspberry Pi 4B 4GB,Generic,39.99,1,Orange Pi 3 LTS,,Klipper alternative SBC
+Meanwell,LRS-350-24,Power Supply 24V 30A,Generic,34.99,1,Meanwell LRS-350-24 24V 14.6A,,Standard Voron spec
+Meanwell,LRS-200-24,Power Supply 24V 30A,Generic,27.99,1,Meanwell LRS-200-24 24V 8.8A,,Smaller printers
+Meanwell,UHP-500-24,Power Supply 24V 30A,Generic,74.99,1,Meanwell UHP-500-24 24V 20.8A,,High power; no fan
+Generic,PSU-24V-15A,Power Supply 24V 30A,Generic,19.99,1,Generic 24V 15A Power Supply,,Budget option
+Generic,PSU-12V-30A,Power Supply 24V 30A,Generic,24.99,1,Generic 12V 30A Power Supply,,12V printers
+Creality,CR-TOUCH,Filament Sensor,Generic,29.99,1,Creality CR Touch Auto Bed Leveling,,
+Creality,BL-TOUCH,Filament Sensor,Generic,34.99,1,BLTouch Auto Bed Leveling Sensor,,Universal
+Antclabs,BLTOUCH-V3.1,Filament Sensor,Generic,39.99,1,Antclabs BLTouch V3.1 Official,,Latest OEM version
+Beacon3D,BEACON-REV-H,Filament Sensor,Generic,69.99,1,Beacon3D Eddy Current Probe Rev H,,Voron; high speed
+BigTreeTech,EDDY-USB,Filament Sensor,Generic,39.99,1,BTT Eddy USB Eddy Current Probe,,
+Cartographer,CARTOGRAPHER-CAN,Filament Sensor,Generic,64.99,1,Cartographer 3D CAN Probe,,High-speed bed leveling
+Klicky,KLICKY-PCB,Filament Sensor,Voron 2.4 / Trident,24.99,1,Klicky PCB Probe Kit,,Voron dock probe
+Generic,INDUCTIVE-PROBE-LJ12,Filament Sensor,Generic,7.99,1,LJ12A3-4-Z/BX Inductive Probe,,12mm; Ender compatible
+Generic,INDUCTIVE-PROBE-LJ8,Filament Sensor,Generic,6.99,1,LJ8A3-2-Z/BY Inductive Probe 8mm,,
+Generic,NEOPIXEL-LED,Toolhead Board,Generic,4.99,5,WS2812B NeoPixel LED Strip,,Voron stealthburner LEDs
+Delta,ASB02505SHA,Cooling Fan,Generic,14.99,1,Delta 25x25x5mm 5V Hotend Fan,,High quality; Voron spec
+Delta,BFB0524HH,Cooling Fan,Generic,16.99,1,Delta 24V 40mm Axial Fan,,Hotend cooling
+GDSTime,4010-24V,Cooling Fan,Generic,8.99,1,GDSTime 40x10mm 24V Radial Fan,,Part cooling
+GDSTime,5015-24V,Cooling Fan,Generic,9.99,1,GDSTime 50x15mm 24V Radial Fan,,Part cooling high-flow
+Sunon,MF25101V1,Cooling Fan,Generic,12.99,1,Sunon 25x10mm 5V Fan,,Voron toolhead
+Generic,4010-AXIAL-24V,Cooling Fan,Ender/CR-10 Series,5.99,1,40x10mm 24V Axial Fan,,Hotend cooling replacement
+Generic,5015-BLOWER-24V,Cooling Fan,Ender/CR-10 Series,5.99,1,50x15mm 24V Blower Fan,,Part cooling
+Generic,6020-AXIAL-24V,Cooling Fan,Generic,7.99,1,60x20mm 24V Axial Fan,,Electronics cooling
+Bambu Lab,FAN-PART-COOL,Cooling Fan,X1C/P1S,12.99,1,Bambu Part Cooling Fan X1/P1,,
+Creality,FAN-ENDER-HOT,Cooling Fan,Ender-3 Series,6.99,1,Creality Hotend Fan 40x10mm 24V,,
+Generic,HEATER-24V-40W,Heater Cartridge 24V 40W,Generic,4.99,1,24V 40W Heater Cartridge 6x20mm,,Standard E3D size
+Generic,HEATER-24V-60W,Heater Cartridge 24V 40W,Generic,6.99,1,24V 60W Heater Cartridge 6x20mm,,High power
+Generic,HEATER-12V-40W,Heater Cartridge 12V 40W,Generic,4.99,1,12V 40W Heater Cartridge 6x20mm,,
+Generic,HEATER-24V-MK8,Heater Cartridge 24V 40W,Ender/CR-10 Series,4.99,1,24V 40W MK8 Heater Cartridge,,Creality compatible
+Generic,THERMISTOR-NTC100K,Thermistor NTC 100K,Generic,2.99,3,NTC 100K Thermistor B3950,,Standard hotend thermistor
+Generic,THERMISTOR-PT1000,Thermistor NTC 100K,Generic,4.99,1,PT1000 RTD Temperature Sensor,,High accuracy; Prusa XL
+Generic,THERMISTOR-PT100,Thermistor NTC 100K,Generic,5.99,1,PT100 RTD Temperature Sensor,,High-temp printing
+Generic,THERMISTOR-BED,Thermistor NTC 100K,Generic,2.99,3,NTC 100K Bed Thermistor,,Heated bed sensor
+Keenovo,SILICONE-200W-235,Heating Assembly,Generic,29.99,1,Keenovo Silicone Heater Mat 235x235,,Custom bed heater
+Keenovo,SILICONE-200W-300,Heating Assembly,Generic,39.99,1,Keenovo Silicone Heater Mat 300x300,,
+E3D,V6-SOCK,Silicone Sock,Generic,7.99,3,E3D V6 Silicone Sock 3-pack,,V6 hotend
+E3D,VOLCANO-SOCK,Silicone Sock,Generic,7.99,3,E3D Volcano Silicone Sock 3-pack,,Volcano hotend
+E3D,REVO-SOCK,Silicone Sock,Generic,7.99,3,E3D Revo Silicone Sock,,Revo hotend
+Creality,SPIDER-SOCK,Silicone Sock,Ender/CR-10 Series,4.99,3,Creality Spider Hotend Silicone Sock,,
+Generic,MK8-SOCK,Silicone Sock,Ender/CR-10 Series,2.99,5,MK8 Silicone Sock 5-pack,,Ender-3 compatible
+Phaetus,RAPIDO-SOCK,Silicone Sock,Generic,6.99,3,Phaetus Rapido Silicone Sock,,
+Generic,M3-HEAT-SET,Heat Set Insert M3,-,8.99,100,M3x5x4 Heat Set Inserts 100-pack,,3D printed parts
+Generic,M4-HEAT-SET,Heat Set Insert M4,-,9.99,50,M4x6x5 Heat Set Inserts 50-pack,,
+Generic,M2-HEAT-SET,Heat Set Insert M2,-,7.99,100,M2x3.5x3.5 Heat Set Inserts 100-pack,,
+Generic,M5-HEAT-SET,Heat Set Insert M4,-,9.99,50,M5x7x6 Heat Set Inserts 50-pack,,
+Generic,M3X8-SHCS,Cap Screw M3x8,-,5.99,100,M3x8 Socket Head Cap Screws 100-pack,,
+Generic,M3X12-SHCS,Cap Screw M3x12,-,5.99,100,M3x12 Socket Head Cap Screws 100-pack,,
+Generic,M3X16-SHCS,Cap Screw M3x16,-,5.99,100,M3x16 Socket Head Cap Screws 100-pack,,
+Generic,M3X20-SHCS,Cap Screw M3x20,-,5.99,100,M3x20 Socket Head Cap Screws 100-pack,,
+Generic,M3X25-SHCS,Cap Screw M3x8,-,5.99,100,M3x25 Socket Head Cap Screws 100-pack,,
+Generic,M4X8-SHCS,Cap Screw M4x8,-,6.99,100,M4x8 Socket Head Cap Screws 100-pack,,
+Generic,M4X12-SHCS,Cap Screw M4x12,-,6.99,100,M4x12 Socket Head Cap Screws 100-pack,,
+Generic,M5X10-SHCS,Cap Screw M5x10,-,7.99,100,M5x10 Socket Head Cap Screws 100-pack,,
+Generic,M5X16-SHCS,Cap Screw M5x10,-,7.99,100,M5x16 Socket Head Cap Screws 100-pack,,
+Generic,M3-TNUT,T-Nut M3,-,6.99,50,M3 T-Nut Slide-in 50-pack,,2020 extrusion
+Generic,M4-TNUT,T-Nut M4,-,6.99,50,M4 T-Nut Slide-in 50-pack,,2020/2040 extrusion
+Generic,M5-TNUT,T-Nut M5,-,7.99,50,M5 T-Nut Slide-in 50-pack,,
+Generic,M3-NUT,Cap Screw M3x8,-,3.99,100,M3 Hex Nuts 100-pack,,
+Generic,M3-WASHER,Cap Screw M3x8,-,3.99,100,M3 Washers 100-pack,,
+Generic,M3-STANDOFF,Cap Screw M3x8,-,6.99,50,M3 Brass Standoffs Assorted,,PCB mounting
+Super Lube,SL-21030,Lubricant,-,12.99,1,Super Lube 21030 Synthetic Grease,,Linear rails & screws
+Super Lube,SL-92003,Lubricant,-,9.99,1,Super Lube 92003 Silicone Oil,,Gears & extruders
+Mobilgrease,28,Lubricant,-,16.99,1,Mobilgrease 28 NLGI 1.5,,Voron recommended
+Generic,PTFE-LUBE,Lubricant,-,7.99,1,PTFE Dry Lubricant Spray,,Rails & linear bearings
+Generic,ISOPROPYL-1L,Lubricant,-,12.99,1,Isopropyl Alcohol 99% 1L,,Bed cleaning
+Generic,ACETONE-500ML,Lubricant,-,9.99,1,Acetone 500ml,,ABS bed adhesion; cleanup
+Generic,MAGIGOO-PRO,Lubricant,-,19.99,1,Magigoo PRO Bed Adhesive,,PA/PC/PEEK printing
+Generic,MAGIGOO-PC,Lubricant,-,16.99,1,Magigoo PC Bed Adhesive,,Polycarbonate printing
+Generic,DIMAFIX,Lubricant,-,14.99,1,DimaFix Adhesive Spray,,ABS/ASA bed adhesion
+Generic,GLUE-STICK,Lubricant,-,2.99,1,Purple Glue Stick Bed Adhesion,,Budget PEI adhesion
+Generic,BOWDEN-PC4-M10,Bowden Coupler PC4-M10,Generic,1.99,5,PC4-M10 Pneumatic Bowden Coupler 5pk,,PTFE into hotend
+Generic,BOWDEN-PC4-M6,Bowden Coupler PC4-M6,Generic,1.99,5,PC4-M6 Pneumatic Bowden Coupler 5pk,,
+Generic,BOWDEN-PC4-01,Bowden Coupler PC4-M10,Generic,1.99,5,PC4-01 Bowden Coupler Push-Fit 5pk,,Extruder side
+Generic,ACME-T8,Stepper Motor,Generic,9.99,1,T8 Lead Screw 400mm + Nut,,Z-axis leadscrew
+Generic,ANTI-BACKLASH-T8,Stepper Motor,Generic,6.99,1,T8 Anti-Backlash Spring Nut,,Reduces Z-wobble
+Generic,FLEXIBLE-COUPLER,Stepper Motor,Generic,4.99,1,5x8mm Flexible Shaft Coupler,,Z motor to leadscrew
+Bambu Lab,FAC002,AMS Feeder,Bambu Lab,12.99,1,Bambu AMS Feeder Assembly,,AMS feeder replacement
+Bambu Lab,FAC003,AMS Hub,Bambu Lab,19.99,1,Bambu AMS Hub Assembly,,AMS hub replacement
+Bambu Lab,AMS-BUFFER,PTFE Adapter,Bambu Lab,14.99,1,Bambu AMS Buffer,,Filament buffer
+Bambu Lab,AMS-PTFE-KIT,PTFE Tube,Bambu Lab,9.99,1,Bambu AMS PTFE Tube Kit,,All AMS tubes
+Mosaic,PALETTE-3-PRO,Extruder Unit,Generic,499.99,1,Mosaic Palette 3 Pro,,MMU for any printer
+Mosaic,PALETTE-3-S,Extruder Unit,Generic,299.99,1,Mosaic Palette 3S,,
+Prusa Research,MMU3,Extruder Unit,Prusa MK3S/MK4,299.99,1,Prusa MMU3 Multi-Material Unit,,5-color for MK3S/MK4
+Prusa Research,CW2,Extruder Unit,Prusa MK3S/MK4,49.99,1,Prusa Clockwork 2 Extruder,,
+ERCF,ERCF-V2-KIT,Extruder Unit,Voron 2.4 / Trident,149.99,1,ERCF V2 Enraged Rabbit Carrot Feeder,,Voron MMU kit
+Generic,SPATULA,Lubricant,-,7.99,1,Flexible Spatula Print Removal Tool,,
+Generic,FLUSH-CUTTERS,Lubricant,-,9.99,1,Flush Cutters for Print Cleanup,,Support removal
+Generic,SCRAPER-METAL,Lubricant,-,12.99,1,Metal Scraper Bed Removal Tool,,
+Generic,CALIPER,Filament Scale,-,19.99,1,Digital Caliper 150mm,,Measuring nozzles & prints
+Generic,FILAMENT-SCALE,Filament Scale,-,19.99,1,Digital Kitchen Scale 0.1g Resolution,,Filament weighing
+Generic,CABLE-SLEEVE,Lubricant,-,8.99,1,Braided Cable Sleeve 10mm,,Cable management
+Generic,CABLE-CHAIN,Lubricant,-,12.99,1,Drag Chain Cable Carrier 10x11mm,,
+Generic,KAPTON-TAPE,Lubricant,-,6.99,1,Kapton Tape 10mm Roll,,Insulation & bed adhesion
+Generic,NOZZLE-BRUSH,Purge Wiper,-,4.99,1,Brass Wire Nozzle Cleaning Brush,,
+Generic,PURGE-BUCKET,Purge Wiper,-,9.99,1,Silicone Purge Bucket,,Voron toolhead cleaner
+Generic,NOZZLE-PICK,Purge Wiper,-,6.99,1,Nozzle Cleaning Pick Set,,Cold pull tools
