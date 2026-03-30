@@ -53,6 +53,9 @@ Catalog data is maintained and updated by the Extrudix developer. Updates may in
 
 ## Version History
 
+### 0.0.1 — March 29, 2026
+- Added UPCs to some filaments
+
 ### 0.0.1 — March 26, 2026
 - Initial public release
 - 489 filament entries across 29 brands
