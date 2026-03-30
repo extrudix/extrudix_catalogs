@@ -51,10 +51,40 @@ Catalog data is maintained and updated by the Extrudix developer. Updates may in
 - Expanded parts and hardware coverage
 - Pricing and spec corrections
 
-## Version History
+## All Catalogs Version History
 
-### 0.0.1 — March 29, 2026
-- Added UPCs to some filaments
+### 0.0.1 — March 26, 2026
+- Initial public release
+- 489 filament entries across 29 brands
+- 469 parts entries across 40 brands
+- 157 printer models
+- `catalog_versions.json` manifest added
+
+## Filaments Catalog Version History
+
+### 0.0.2 — March 29, 2026
+- Added some UPCs
+
+### 0.0.1 — March 26, 2026
+- Initial public release
+- 489 filament entries across 29 brands
+- 469 parts entries across 40 brands
+- 157 printer models
+- `catalog_versions.json` manifest added
+
+## Parts Catalog Version History
+
+### 0.0.2 — March 29, 2026
+- Added some UPCs
+
+### 0.0.1 — March 26, 2026
+- Initial public release
+- 489 filament entries across 29 brands
+- 469 parts entries across 40 brands
+- 157 printer models
+- `catalog_versions.json` manifest added
+
+## Printers Catalog Version History
 
 ### 0.0.1 — March 26, 2026
 - Initial public release
