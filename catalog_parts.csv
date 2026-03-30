@@ -1,25 +1,25 @@
 brand,sku,category,compatiblePrinter,msrp,purchasePackQty,descriptor,upc,userComments
 Bambu Lab,FAH022,Silicone Sock,H2S,2.99,3,Silicone Sock for Hotend H2 Series,,H2 Series 3pk
 Bambu Lab,FAC034,Filament Cutter,H2S,2.99,1,Replacement Filament Cutter,,X1/P1/A1Series/H2S
-Bambu Lab,SAA034,Support Shaft Assembly,AMS 2 Pro,5.99,1,AMS 2 Pro Active Support Shaft,,AMS 2 Pro
-Bambu Lab,SAA033,Support Shaft Assembly,AMS 2 Pro,7.49,1,AMS 2 Pro Driven Support Shaft,,AMS 2 Pro
-Bambu Lab,FAC147,Purge Wiper,H2S,9.99,1,Purge Wiper H2S,,H2S and H2S Laser
-Bambu Lab,FAC224,PTFE Cleaning Pad,All Series,2.99,10,PTFE Adapter Filament II Cleaning Pad,,All Series - 10pk
-Bambu Lab,FAZ037,Anti-Vibration Feet,H2S,4.99,1,Anti-Vibration Feet Set H2 Series,,H2 Series
-Bambu Lab,SAA029,Desiccant,AMS 2 Pro,3.99,6,Desiccant for AMS Unit,,All Series - 6pk
+Bambu Lab,SAA034,Support Shaft Assembly,AMS 2 Pro,5.99,1,AMS 2 Pro Active Support Shaft,6977252428897,AMS 2 Pro
+Bambu Lab,SAA033,Support Shaft Assembly,AMS 2 Pro,7.49,1,AMS 2 Pro Driven Support Shaft,6977252428910,AMS 2 Pro
+Bambu Lab,FAC147,Purge Wiper,H2S,9.99,1,Purge Wiper H2S,6937285505446,H2S and H2S Laser
+Bambu Lab,FAC224,PTFE Cleaning Pad,All Series,2.99,10,PTFE Adapter Filament II Cleaning Pad,6937285509284,All Series - 10pk
+Bambu Lab,FAZ037,Anti-Vibration Feet,H2S,4.99,1,Anti-Vibration Feet Set H2 Series,6937285500205,H2 Series
+Bambu Lab,SAA029,Desiccant,AMS 2 Pro,3.99,6,Desiccant for AMS Unit,6977252428873,All Series - 6pk
 Bambu Lab,FAZ030,Lubricant,All Series,3.99,2,Lubricant Grease,,All Series - 2pk
 Bambu Lab,FAZ031,Lubricant,All Series,5.99,6,Lubricant Oil,,All Series - 6pk
-Bambu Lab,FAC116,Air Filter,H2S,17.99,1,Air Filter H2 Series,,H2 Series
-Bambu Lab,FAH026-H2S,Nozzle,H2S,17.84,1,Standard Flow 0.2mm Stainless Steel,,
-Bambu Lab,FAH023-H2S,Nozzle,H2S,17.84,1,Standard Flow 0.4mm Hardened Steel,,
-Bambu Lab,FAH030-H2S,Nozzle,H2S,49.39,1,High Flow 0.4mm Hardened Steel,,
-Bambu Lab,FAH043-H2S,Nozzle,H2S,89.99,1,High Flow 0.4mm Tungsten Carbide,,
-Bambu Lab,FAH040-H2S,Nozzle,H2S,59.99,1,Standard Flow 0.4mm Tungsten Carbide,,
-Bambu Lab,FAP026,Build Plate,H2S,43.39,1,Smooth PEI Plate,,H2D and H2S
-Bambu Lab,FAP025,Build Plate,H2S,61.99,1,Textured PEI Plate,,H2D and H2S
-Bambu Lab,FAP038-H2S,Build Plate,H2S,59.99,1,Engineering Plate,,H2S
-Bambu Lab,FAP031-V1,Vision Encoder,H2S,84.0,1,Vision Encoder H2 Series,,H2 Series
-Bambu Lab,FAZ013-N,PTFE Adapter,All Series,4.99,1,Bambu 4-in-1 PTFE Adapter,,X1/P1/H2D/H2S/P2S
+Bambu Lab,FAC116,Air Filter,H2S,17.99,1,Air Filter H2 Series,6937285501479,H2 Series
+Bambu Lab,FAH026,Nozzle,H2S,17.84,1,Standard Flow 0.2mm Stainless Steel,6937285501301,
+Bambu Lab,FAH023,Nozzle,H2S,17.84,1,Standard Flow 0.4mm Hardened Steel,6937285500144,
+Bambu Lab,FAH030,Nozzle,H2S,49.39,1,High Flow 0.4mm Hardened Steel,6937285501400,
+Bambu Lab,FAH043,Nozzle,H2S,89.99,1,High Flow 0.4mm Tungsten Carbide,6937285504500,
+Bambu Lab,FAH040,Nozzle,H2S,59.99,1,Standard Flow 0.4mm Tungsten Carbide,6937285504531,
+Bambu Lab,FAP026,Build Plate,H2S,43.39,1,Smooth PEI Plate,6937285501905,H2D and H2S
+Bambu Lab,FAP025,Build Plate,H2S,61.99,1,Textured PEI Plate,6937285501356,H2D and H2S
+Bambu Lab,FAP038-H2S,Build Plate,H2S,59.99,1,Engineering Plate,6937285510402,H2S
+Bambu Lab,FAP031-V1,Vision Encoder,H2S,84.0,1,Vision Encoder H2 Series,6937285503206,H2 Series
+Bambu Lab,FAZ013-N,PTFE Adapter,All Series,4.99,1,Bambu 4-in-1 PTFE Adapter,6977252426640,X1/P1/H2D/H2S/P2S
 Bambu Lab,EBT-X1C-H01,Nozzle,X1 Carbon,129.99,1,Complete Nozzle Assembly X1 Carbon,,X1C with nozzle
 Bambu Lab,EBT-P1S-H01,Nozzle,P1S,119.99,1,Complete Nozzle Assembly P1S,,P1S with nozzle
 Bambu Lab,EBT-A1M-H01,Nozzle,A1 Mini,89.99,1,Nozzle Assembly A1 Mini,,A1 Mini
@@ -175,8 +175,8 @@ Other,,Filament Roller Stand,All Series,19.99,1,Filament Spool Roller Stand,,Uni
 Other,,Filament Scale,All Series,12.99,1,Digital Filament Scale,,Spool weight tracking
 Polymaker,PO-STORAGE,Filament Storage Box,All Series,23.09,1,Filament Storage Box,,Box only
 Polymaker,PO-DRYER,Filament Dryer Base,All Series,53.79,1,Filament Dryer Base,,Dryer base
-Bambu Lab,RSP001,Reusable Spool,All Series,7.99,1,Reusable Spool Low Temp (70C),,RSP001 4pk
-Bambu Lab,RSP002,Reusable Spool,All Series,7.99,1,Reusable Spool High Temp (90C),,RSP002 High Temp 4pk
+Bambu Lab,RSP001,Reusable Spool,All Series,7.99,1,Reusable Spool Low Temp (70C),6975337030829,RSP001 4pk
+Bambu Lab,RSP002,Reusable Spool,All Series,7.99,1,Reusable Spool High Temp (90C),6975337038658,RSP002 High Temp 4pk
 E3D,V6-0.25-175,Nozzle,Generic,5.99,1,E3D V6 0.25mm Brass 1.75mm,,V6 compatible
 E3D,V6-0.4-175,Nozzle,Generic,5.99,1,E3D V6 0.4mm Brass 1.75mm,,V6 compatible
 E3D,V6-0.6-175,Nozzle,Generic,5.99,1,E3D V6 0.6mm Brass 1.75mm,,V6 compatible
@@ -267,7 +267,7 @@ Wham Bam,FLEXI-300,Build Plate,CR-10 Series,39.99,1,Wham Bam FlexPlate System 30
 Wham Bam,FLEXI-250,Build Plate,Prusa MK3S/MK4,34.99,1,Wham Bam FlexPlate System 254x241,,
 Generic,BOROSILICATE-235,Build Plate,Ender-3 Series,14.99,1,Borosilicate Glass Bed 235x235mm,,
 Generic,BOROSILICATE-300,Build Plate,CR-10 Series,19.99,1,Borosilicate Glass Bed 300x300mm,,
-Generic,PEI-310,Build Plate,Prusa MK3S/MK4,16.99,1,PEI Spring Steel Sheet 310x315mm,,MK3 compatible
+Generic,-PEI 310.00,Build Plate,Prusa MK3S/MK4,16.99,1,PEI Spring Steel Sheet 310x315mm,,MK3 compatible
 Generic,PEI-VORON-250,Build Plate,Voron 2.4 250,24.99,1,PEI Flex Plate Voron 250x250mm,,
 Generic,PEI-VORON-300,Build Plate,Voron 2.4 300,27.99,1,PEI Flex Plate Voron 300x300mm,,
 Generic,PEI-VORON-350,Build Plate,Voron 2.4 350,32.99,1,PEI Flex Plate Voron 350x350mm,,
