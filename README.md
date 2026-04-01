@@ -62,6 +62,9 @@ Catalog data is maintained and updated by the Extrudix developer. Updates may in
 
 ## Filaments Catalog Version History
 
+### 0.0.2 — March 30, 2026
+- Added diameter column
+
 ### 0.0.2 — March 29, 2026
 - Added some UPCs
 
