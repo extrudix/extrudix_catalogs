@@ -25,14 +25,6 @@ The Extrudix app reads this file when you open the Catalog Updates screen and di
 
 Catalog files are fetched by the Extrudix app via **Settings → Data & Storage → Catalog Updates**. You do not need to download or modify these files manually — the app handles syncing automatically. An internet connection is required to fetch updates.
 
-## Catalog Coverage
-
-| Catalog | Entries | Brands / Models |
-|---------|---------|-----------------|
-| Filaments | 489 | 29 brands (Bambu Lab, Prusament, eSUN, Polymaker, Hatchbox, Overture, Sunlu, ColorFabb, MatterHackers, and more) |
-| Parts | 469 | 40 brands (E3D, Slice Engineering, Micro Swiss, Phaetus, Bondtech, Orbiter, Capricorn, BigTreeTech, Bambu Lab, Prusa Research, Creality, LDO, and more) |
-| Printers | 157 | Bambu Lab, Prusa, Creality, AnkerMake, Voron, Elegoo, Qidi, Flashforge, Raise3D, Ultimaker, Anycubic, Artillery, Sovol, RatRig, Snapmaker, FLSun, and more |
-
 > **Note:** Catalog data is sample/reference data. Always verify specifications, pricing, and availability with the manufacturer or retailer before purchasing.
 
 ## Contributing
@@ -62,30 +54,22 @@ Catalog data is maintained and updated by the Extrudix developer. Updates may in
 
 ## Filaments Catalog Version History
 
-### 0.0.2 — March 30, 2026
+### 0.0.4 — June 6, 2026
+- Added TPU for AMS Neon Green China UPC
+
+### 0.0.3 — March 30, 2026
 - Added diameter column
 
 ### 0.0.2 — March 29, 2026
 - Added some UPCs
 
-### 0.0.1 — March 26, 2026
-- Initial public release
-- 489 filament entries across 29 brands
-- 469 parts entries across 40 brands
-- 157 printer models
-- `catalog_versions.json` manifest added
-
 ## Parts Catalog Version History
+
+### 0.0.3 — June 6, 2026
+- Added TPU feed assist module, BL liquid glue, and elmers glue stick. 
 
 ### 0.0.2 — March 29, 2026
 - Added some UPCs
-
-### 0.0.1 — March 26, 2026
-- Initial public release
-- 489 filament entries across 29 brands
-- 469 parts entries across 40 brands
-- 157 printer models
-- `catalog_versions.json` manifest added
 
 ## Printers Catalog Version History
 
