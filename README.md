@@ -54,6 +54,9 @@ Catalog data is maintained and updated by the Extrudix developer. Updates may in
 
 ## Filaments Catalog Version History
 
+### 0.0.5 — June 19, 2026
+- Added PA-6CF and some Matte Colors
+
 ### 0.0.4 — June 6, 2026
 - Added TPU for AMS Neon Green China UPC
 
@@ -64,6 +67,9 @@ Catalog data is maintained and updated by the Extrudix developer. Updates may in
 - Added some UPCs
 
 ## Parts Catalog Version History
+
+### 0.0.4 — June 19, 2026
+- Added Bambu Grease UPC
 
 ### 0.0.3 — June 6, 2026
 - Added TPU feed assist module, BL liquid glue, and elmers glue stick. 
