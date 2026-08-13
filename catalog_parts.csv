@@ -5,6 +5,7 @@ Bambu Lab,SAA034,Support Shaft Assembly,AMS 2 Pro,5.99,1,AMS 2 Pro Active Suppor
 Bambu Lab,SAA033,Support Shaft Assembly,AMS 2 Pro,7.49,1,AMS 2 Pro Driven Support Shaft,6977252428910,AMS 2 Pro
 Bambu Lab,FAC147,Purge Wiper,H2S,9.99,1,Purge Wiper H2S,6937285505446,H2S and H2S Laser
 Bambu Lab,FAC224,PTFE Cleaning Pad,All Series,2.99,10,PTFE Adapter Filament II Cleaning Pad,6937285509284,All Series - 10pk
+Bambu Lab,SL009,Cleaning Wipes,Generic,7.99,50,Cleaning Wipes - 50pk,6937285507389,General Cleaning Wipes
 Bambu Lab,FAZ037,Anti-Vibration Feet,H2S,4.99,1,Anti-Vibration Feet Set H2 Series,6937285500205,H2 Series
 Bambu Lab,SAA029,Desiccant,AMS 2 Pro,3.99,6,Desiccant for AMS Unit,6977252428873,All Series - 6pk
 Bambu Lab,FAZ030,Lubricant,All Series,3.99,2,Lubricant Grease,6977252427241,All Series - 2pk
@@ -15,9 +16,10 @@ Bambu Lab,FAH023,Nozzle,H2S,17.84,1,Standard Flow 0.4mm Hardened Steel,693728550
 Bambu Lab,FAH030,Nozzle,H2S,49.39,1,High Flow 0.4mm Hardened Steel,6937285501400,
 Bambu Lab,FAH043,Nozzle,H2S,89.99,1,High Flow 0.4mm Tungsten Carbide,6937285504500,
 Bambu Lab,FAH040,Nozzle,H2S,59.99,1,Standard Flow 0.4mm Tungsten Carbide,6937285504531,
-Bambu Lab,FAP026,Build Plate,H2S,43.39,1,Smooth PEI Plate,6937285501905,H2D and H2S
-Bambu Lab,FAP025,Build Plate,H2S,61.99,1,Textured PEI Plate,6937285501356,H2D and H2S
+Bambu Lab,FAP026,Build Plate,H2S,43.39,1,Smooth PEI Plate,6937285501905,H2S
+Bambu Lab,FAP025,Build Plate,H2S,61.99,1,Textured PEI Plate,6937285501356,H2S
 Bambu Lab,FAP038,Build Plate,H2S,59.99,1,Engineering Plate,6937285510402,H2S
+Bambu Lab,FAP040,Build Plate,H2S,59.99,1,Cool Plate (SuperTack),6937285512512,H2S
 Bambu Lab,FAP031,Vision Encoder,H2S,84.0,1,Vision Encoder H2 Series,6937285503206,H2 Series
 Bambu Lab,FAZ013,PTFE Adapter,All Series,4.99,1,Bambu 4-in-1 PTFE Adapter,6977252426640,X1/P1/H2D/H2S/P2S
 Bambu Lab,,Nozzle,X1 Carbon,129.99,1,Complete Nozzle Assembly X1 Carbon,,X1C with nozzle
@@ -41,6 +43,7 @@ Bambu Lab,FAC015,Purge Wiper,X1 Carbon,7.99,1,Purge Wiper X1/P1,,X1C/P1S
 Bambu Lab,FAZ001,Lubricant,All Series,6.99,1,Linear Rail Lubricant Kit,,All Series
 Bambu Lab,FAZ005,Desiccant,All Series,9.99,4,Desiccant Packs for AMS,,AMS/AMS Lite - 4pk
 Bambu Lab,,PTFE Tube,All Series,5.99,1,AMS PTFE Tube Set,,AMS replacement set
+Bambu Lab,FAT005,PTFE Tube,All Series,9.99,1,PTFE Tubing - Gray 4000mm,6975337035114,PTFE Replacement Tubing - Cut to Length
 Bambu Lab,,AMS Hub,All Series,19.99,1,AMS Hub,,AMS replacement
 Bambu Lab,,AMS Feeder,All Series,24.99,1,AMS Feeder Unit,,AMS replacement
 Bambu Lab,FAP-COOL,Cooling Fan,A1 Mini,8.99,1,Part Cooling Fan A1 Mini,,A1 Mini replacement
@@ -115,7 +118,7 @@ Slice Engineering,,Nozzle,Generic,89.99,1,Mosquito Ruby 0.4mm,,Long-life ruby
 Slice Engineering,,Desiccant,All Series,24.99,1,Filament Drying Desiccant 2lb,,2lb container
 Slice Engineering,,Desiccant,All Series,89.99,12,Filament Drying Desiccant Canisters,,12pk canisters
 Polymaker,,Filament Dryer Base,All Series,53.79,1,Filament Dryer Base,,Dryer base only
-Polymaker,,Filament Storage Box,All Series,23.09,1,Filament Storage Box,,Box only
+Polymaker,PX01003,Filament Storage Box,All Series,23.99,1,Filament Storage Box,X003ZET8OX,Box only
 Polymaker,,Desiccant,All Series,9.99,10,Moisture Indicator Cards,,10pk
 Capricorn,,PTFE Tube,Generic,9.99,1,Capricorn XS PTFE Tube 1m,,1.75mm 2mm ID
 Capricorn,,PTFE Tube,Generic,13.99,1,Capricorn XS PTFE Tube 2m,,1.75mm 2mm ID

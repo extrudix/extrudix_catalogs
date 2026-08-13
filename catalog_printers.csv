@@ -1,18 +1,18 @@
 brand,model,buildWidthMM,buildDepthMM,buildHeightMM,productURL,notes
 Bambu Lab,X1 Carbon,256,256,256,https://bambulab.com/en/x1,
-Bambu Lab,X1 Carbon Combo,256,256,256,https://bambulab.com/en/x1,
 Bambu Lab,X1E,256,256,256,https://bambulab.com/en/x1e,
 Bambu Lab,P1S,256,256,256,https://bambulab.com/en/p1s,
-Bambu Lab,P1S Combo,256,256,256,https://bambulab.com/en/p1s,
 Bambu Lab,P1P,256,256,256,https://bambulab.com/en/p1p,
 Bambu Lab,A1,256,256,256,https://bambulab.com/en/a1,
-Bambu Lab,A1 Combo,256,256,256,https://bambulab.com/en/a1,
 Bambu Lab,A1 Mini,180,180,180,https://bambulab.com/en/a1-mini,
-Bambu Lab,A1 Mini Combo,180,180,180,https://bambulab.com/en/a1-mini,
 Bambu Lab,H2D,320,320,325,https://bambulab.com/en/h2d,
 Bambu Lab,H2S,350,320,325,https://bambulab.com/en/h2s,
 Bambu Lab,P2S,256,256,256,https://bambulab.com/en/p2s,
 Bambu Lab,X2,256,256,256,https://bambulab.com/en/x2,
+Bambu Lab,H2C,330,320,325,https://bambulab.com/en/h2c,
+Bambu Lab,A2L,330,320,325,https://bambulab.com/en/a2l,
+Bambu Lab,X2D,256,256,260,https://bambulab.com/en/x2d,
+Bambu Lab,A1 5th Gen,256,256,256,https://bambulab.com,
 Prusa Research,MK4,250,210,220,https://www.prusa3d.com/en/category/original-prusa-mk4/,
 Prusa Research,MK4S,250,210,220,https://www.prusa3d.com/en/category/original-prusa-mk4s/,
 Prusa Research,MK3S+,250,210,210,https://www.prusa3d.com/en/category/original-prusa-i3-mk3s/,
@@ -154,5 +154,4 @@ Tronxy,X5SA,330,330,400,https://www.tronxy.com,CoreXY
 Tronxy,X5SA Pro,330,330,400,https://www.tronxy.com,CoreXY
 Kingroon,KP3S Pro V2,200,200,200,https://kingroon.com,
 Kingroon,KLP1,230,230,260,https://kingroon.com,CoreXY
-Bambu Lab,A1 5th Gen,256,256,256,https://bambulab.com,
 User Defined,Custom Printer,0,0,0,,Enter your own brand and dimensions manually
