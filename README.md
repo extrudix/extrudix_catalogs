@@ -16,7 +16,7 @@ This repository contains the catalog data used by the [Extrudix](https://www.ext
 Each release of the catalog package is tracked in `catalog_versions.json`. The file contains a version string per catalog:
 
 ```json
-{"filaments": "0.0.6", "parts": "0.0.5", "printers": "0.0.2"}
+{"filaments": "0.0.7", "parts": "0.0.6", "printers": "0.0.2"}
 ```
 
 The Extrudix app reads this file when you open the Catalog Updates screen and displays your installed version alongside the available version for each catalog. When versions differ, the app shows an update indicator. Individual catalog versions are bumped when that catalog's data changes, not all three need to change together.
@@ -54,6 +54,9 @@ Catalog data is maintained and updated by the Extrudix developer. Updates may in
 
 ## Filaments Catalog Version History
 
+### 0.0.7 - August 18, 2026
+- Added UPCs for Bambu Lab TPU 85A Black and TPU 90A Black
+
 ### 0.0.6 - August 13, 2026
 - Backfilled missing density values across several Bambu Lab lines (ABS-GF, ASA Aero and Basic, PETG CF and HF, PLA Aero)
 - Added a UPC for Bambu Lab ABS-GF Gray
@@ -71,6 +74,9 @@ Catalog data is maintained and updated by the Extrudix developer. Updates may in
 - Added some UPCs
 
 ## Parts Catalog Version History
+
+### 0.0.6 - August 18, 2026
+- Added a UPC for Bambu Lab Lubricant Oil (FAZ031)
 
 ### 0.0.5 - August 13, 2026
 - Added three Bambu Lab parts: Cool Plate (SuperTack) for H2S, replacement PTFE tubing, and cleaning wipes
